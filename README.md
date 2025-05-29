@@ -20,6 +20,6 @@ Total Pizzas Sold by Category
 Power BI - SQL 
 
  ## Report preview
-![Dashboard Preview](Pizza ).
+![Dashboard Preview](Pizza-Sales-Data-Analysis ).
 
 
