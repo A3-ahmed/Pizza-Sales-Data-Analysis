@@ -22,4 +22,7 @@ Power BI - SQL
  ## Report preview
 ![Dashboard Preview](Pizza-Sales-Data-Analysis ).
 
+![Dashboard Preview](Pizza-Sales-Data-Analysis ).
+
+
 
